@@ -1,43 +1,50 @@
----
-
 ### **How to Run the Project**
 
 Follow these steps to run the Tic-Tac-Toe project locally on your machine:
 
 1. **Clone the repository:**
    First, open a terminal and run the following command to clone the GitHub repository:
+
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
    ```
 
 2. **Navigate to the project directory:**
    Once the project is cloned, change into the project directory:
+
    ```bash
    cd tic-tac-toe
    ```
 
 3. **Install dependencies:**
    Install the required dependencies using `npm` or `yarn`. Run one of the following commands:
+
    ```bash
    npm install
    ```
+
    or
+
    ```bash
    yarn install
    ```
 
 4. **Run the project:**
    After the dependencies are installed, you can start the project using:
+
    ```bash
    npm start
    ```
+
    or
+
    ```bash
    yarn start
    ```
 
 5. **Open the app:**
    Once the project starts, it will automatically open in your default browser at:
+
    ```bash
    http://localhost:3000
    ```
@@ -48,8 +55,6 @@ Follow these steps to run the Tic-Tac-Toe project locally on your machine:
    npm run build
    ```
    This will create an optimized production build in the `/build` directory.
-
----
 
 **Dependencies**:
 
@@ -65,8 +70,6 @@ Follow these steps to run the Tic-Tac-Toe project locally on your machine:
 - **Tailwind CSS**
 - **HTML5/CSS3**
 - **Local Storage API**
-
----
 
 **About the Game**
 
@@ -90,5 +93,3 @@ Welcome to Tic-Tac-Toe, a classic game with a modern twist! This project is buil
 - **React Hooks**: Manages the state and side effects like game logic, dark mode toggling, and persistent stats tracking.
 
 This app is an open-source project and a testament to the power of modern web technologies. Feel free to explore the code and contribute on [GitHub](#https://github.com/treezycoder/tictactoe-game)!
-
----
